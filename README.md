@@ -63,6 +63,3 @@ This project combines data science with psychological hypotheses to investigate 
 - `countplot`: Player levels by region and genre  
 - `heatmap`: Genre preferences (% normalized) by location  
 - `MANOVA`: Statistical test on `Location ~ GameGenre + PlayerLevel`
-
-## 🧪 Statistical Summary
-
